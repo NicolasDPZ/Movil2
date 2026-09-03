@@ -66,6 +66,7 @@ fun UserListScreen(
     }
 }
 
+@OptIn(ExperimentalFoundationApi::class)
 @Composable
 fun ListaUsuarios(
     users: List<User>,

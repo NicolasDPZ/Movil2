@@ -59,8 +59,3 @@ fun UserDetailScreen(user: User?, modifier: Modifier = Modifier) {
     }
 }
 
-@Preview
-@Composable
-fun previewDetails(){
-
-}
